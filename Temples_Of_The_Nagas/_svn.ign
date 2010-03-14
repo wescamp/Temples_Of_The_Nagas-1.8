@@ -1,0 +1,17 @@
+.*
+#*#
+*~
+*-bak
+*.swp
+*.pbl
+_info.cfg
+*.exe
+*.bat
+*.cmd
+*.com
+*.scr
+*.sh
+*.js
+*.vbs
+*.o
+Thumbs.db

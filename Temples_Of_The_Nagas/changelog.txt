@@ -1,0 +1,26 @@
+11.2006 - v.1alpha
+
+25.2.2007 - v.2alpha - added info labels and champion dialogs; added items that champions drop when killed; replaced the elvish ranger with a dwarvish berserker as a wave 2 champion
+
+28.2.2007 - v.3alpha - fixed some dialogue grammar errors ; fixed the bow and the trident that were broken; added an additional +25HP bonus to the trident;added the intro dialogue made by jb ; also added the leader death message made by jb ; added the info file made by jb and the new intro message and map descrition made by jb ; added the sound and the floating text when the temples get plundered ; changed the zerker item bonus attack from 4-2 to 50-1;
+lowered the starting gold for the players from 100 to 75 and the income from +3 to +2
+
+4.3.2007 - v.4alpha - added a custom music playlist ; made the AI controlled side invisible at startup ; added some effects ; added intro ; added items for the wave 5-9 champions ; added the 10th final wave ; added the victory conditions ; some other things I cant remmember ; fixed some minor grammar and code errors; added the hintobook help
+
+8.3.2007 - v.5alpha - added 4 different difficulty settings - lite,medium,epic and hardcore ; fixed the broken victory condition; raised the income of the players from +2 to +3
+
+9.3.2007 - v.6beta - customised the final wave champions; added the victory and defeat messages made by jb; made separate version adapted for the 1.3 branch; some other minor fixes as well; finaly published on the add-on server
+
+12.5.2007 - v.7beta - changed immobile guards of the temples of the 1st wave to level 1 units, edited the map to be more knalagan friendly ( made by jb ), wave bosses now have hero icons, changed some of the immobile guards of the temples of the 8th wave from level 2 to level 3, the shield and the equipment now give partial healing proportial to the maximum hitpoints increase, changed the base income of the players to +2 in both 1.2 and 1.3 versions,the last wave naga guardians are not weak to cold anymore,changed the map data of the 1.3 version into the new format,updated the weapon specials in the 1.3 version to fit the 1.3 WML
+
+23.7.2007 - v.8 - little map improvements ( made by jb ); addad a terrain mask that activates at turn 48, also made by jb; added user_descriptions of the guardian bosses; changed the guardian side AI parameters; made the units that pick up the items get hero icons to make them more easily distinguishable from the others; made the elven bow give a 10-5 ranged pierce attack with marksmanship instead of the upgrade of the unit's ranged attack if the unit that takes it doesnt originaly have a ranged attack; made the last wave naga bosses use their attacks properly
+
+14.10.2007 - maintainence update
+
+6.3.2009 - ver. 1.0 - moved spy unit to 9,1 hex and surrounded him with impassible terrain
+
+13.3.2009 - ver. 1.1 Updated using wmllint for 1.5.13
+
+9.3.2010 - version 1.2 for Battle for Wesnoth 1.6 and version 1.2.1 for Battle for Wesnoth 1.8 - fixed the bug with the hidden naga not been properly stoned, made a workaround for the terrain mask not being applied properly around the edges of the map, an update of the custom music playlist of the scenario, added a textdomain for translation of the add-on, fixed some broken paths and missing images, some grammar fixes, made floating labels translatable, added some needed ignore and version files, automatic changes done by wmllint and wmlindent runs and done the porting of Temples of the Nagas to BfW 1.8 as version 1.2.1
+
+The scenario is considered complete by the authors - in other words no more changes are planned, but only maintenance and eventual bugfixing
