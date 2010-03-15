@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-03-15 20:01+0100\n"
+"PO-Revision-Date: 2010-03-15 20:01+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. [multiplayer]: id=temples_of_the_nagas
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:5
+msgid "Temples of the Nagas"
+msgstr ""
+
+#. [multiplayer]: id=temples_of_the_nagas
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6
+msgid ""
+"Lured by the promise of untold treasures, 4 nations unite in an uneasy "
+"alliance to lay siege to the temples of the nagas. This is a 4 player team "
+"multiplayer scenario that includes several waves of enemy spawns controled "
+"by the AI. Each spawn will have a "
+msgstr ""
+
+#. [part]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:18
+msgid ""
+"Lured by the promise of untold treasures, four nations unite in an uneasy "
+"alliance to lay siege to the temples of the nagas."
+msgstr ""
+
+#. [part]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:22
+msgid ""
+"The crafty Naga Templars, however, were well aware of the encroaching "
+"attackers. They used some gold to hire mercenaries, hoarding the rest within "
+"the temples. Their champions were summoned, along with scores of men and "
+"monsters, all ready to defend the sacred temples with their lives."
+msgstr ""
+
+#. [part]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:26
+msgid ""
+"Unbeknownst to them all, the High Templar plans to use the blood of the "
+"fallen, both friend and foe, to summon their God into this mortal realm. "
+"Only blood sacrifice is powerful enough to summon a God, and the rivers "
+"shall soon run red..."
+msgstr ""
+
+#. [objective]: condition=win
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:135
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:150
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:165
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:180
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:195
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:210
+msgid "Kill off all the waves of enemies"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:139
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:154
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:169
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:184
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:199
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:214
+msgid "Death of all party leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:143
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:158
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:173
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:188
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:203
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:218
+msgid "Turns run out"
+msgstr ""
+
+#. [side]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:229
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:306
+msgid "team_name^Temple Guardians"
+msgstr ""
+
+#. [side]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:246
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:261
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:276
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:290
+msgid "team_name^Attackers"
+msgstr ""
+
+#. [unit]: type=Naga Fighter, id=Spy
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:355
+msgid "Spy"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:375
+msgid ""
+"This is a 4 player team multiplayer scenario which includes several waves of "
+"enemy spawns controled by the AI. Each spawn will have a "
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:385
+msgid ""
+"Created by:\n"
+"jb: Map and story\n"
+"Mythological: WML"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:394
+msgid ""
+"Special thanks to Truper for testing the scenario and providing feedback"
+msgstr ""
+
+#. [message]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:403
+msgid ""
+"Let us get one thing straight. I do not trust you and you do not trust me. "
+"If you get in my way I may be indiscriminate about who is friend and who is "
+"foe."
+msgstr ""
+
+#. [message]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:411
+msgid "Fine with me. I am not here to aid you, I am here for the gold."
+msgstr ""
+
+#. [message]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:419
+msgid ""
+"No need for your petty hatred. We must work together if we have any hope of "
+"defeating the temple guardians."
+msgstr ""
+
+#. [message]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:427
+msgid "Silence! The battle is upon us. Prepare to attack."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:440
+msgid ""
+"Knee deep in mud and blood, a lucky blow ends your life. Damn wesnoth and "
+"its unfair RNG. Clearly, if you did not have such bad luck victory would "
+"have been yours..."
+msgstr ""
+
+#. [message]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:450
+msgid "Good, more gold for us!"
+msgstr ""
+
+#. [print]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:474
+msgid "Xnamas plundered"
+msgstr ""
+
+#. [print]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:503
+msgid "Liabra plundered"
+msgstr ""
+
+#. [print]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:532
+msgid "Saxrireii plundered"
+msgstr ""
+
+#. [print]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:561
+msgid "Wizzi plundered"
+msgstr ""
+
+#. [print]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:590
+msgid "Axmaill plundered"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:756
+msgid ""
+"Choose the length ( and at the same time the difficulty ) of the scenario :"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:759
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:777
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:795
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:813
+msgid " "
+msgstr ""
+
+#. [print]
+#. [option]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:759
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:762
+msgid "Lite : 4 waves, 22 turn limit"
+msgstr ""
+
+#. [print]
+#. [option]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:777
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:780
+msgid "Medium : 6 waves, 34 turn limit"
+msgstr ""
+
+#. [print]
+#. [option]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:795
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:798
+msgid "Epic : 8 waves, 46 turn limit"
+msgstr ""
+
+#. [print]
+#. [option]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:813
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:816
+msgid "Hardcore : 10 waves, 58 turn limit"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:867
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:893
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:919
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:945
+msgid ""
+"Turn 3: Critters and crawlers and simple folk...\n"
+"Turn 8: Backstabbing elusive poisonous knaves...\n"
+"Turn 13: Fire, thunder, and arrows everywhere...\n"
+"Turn 18: Birds above and scouts below..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:973
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1001
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1029
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1057
+msgid ""
+"Turn 3: Critters and crawlers and simple folk...\n"
+"Turn 8: Backstabbing elusive poisonous knaves...\n"
+"Turn 13: Fire, thunder, and arrows everywhere...\n"
+"Turn 18: Birds above and scouts below...\n"
+"Turn 23: Men of steel and men of might...\n"
+"Turn 28: A rift of magic..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1087
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1117
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1147
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1177
+msgid ""
+"Turn 3: Critters and crawlers and simple folk...\n"
+"Turn 8: Backstabbing elusive poisonous knaves...\n"
+"Turn 13: Fire, thunder, and arrows everywhere...\n"
+"Turn 18: Birds above and scouts below...\n"
+"Turn 23: Men of steel and men of might...\n"
+"Turn 28: A rift of magic...\n"
+"Turn 33: The raging sea comes for it's revenge...\n"
+"Turn 38: Stronger men of steel and men of might..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1209
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1241
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1273
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1305
+msgid ""
+"Turn 3: Critters and crawlers and simple folk...\n"
+"Turn 8: Backstabbing elusive poisonous knaves...\n"
+"Turn 13: Fire, thunder, and arrows everywhere...\n"
+"Turn 18: Birds above and scouts below...\n"
+"Turn 23: Men of steel and men of might...\n"
+"Turn 28: A rift of magic...\n"
+"Turn 33: The raging sea comes for it's revenge...\n"
+"Turn 38: Stronger men of steel and men of might...\n"
+"Turn 43: Death for mortals and monsters alike...\n"
+"Turn 48: The naga defenders themselves..."
+msgstr ""
+
+#. [print]
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1315
+msgid "Player 1, please choose length"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1331
+msgid ""
+"In a small dirty chest tossed haphazardly to the side of the path, your "
+"scouts find the journal from the last King who was foolish enough to "
+"challenge the naga temples."
+msgstr ""
+
+#. [unit]: type=Goblin Pillager, id=Argurk
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1689
+msgid "Argurk"
+msgstr ""
+
+#. [message]: speaker=Argurk
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1738
+msgid "You can't run from me!"
+msgstr ""
+
+#. [message]: id=Argurk
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1749
+msgid "Aarrrggggghhhhh!"
+msgstr ""
+
+#. [object]: id=Choker
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1780
+msgid "Choker of Speed"
+msgstr ""
+
+#. [object]: id=Choker
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:1782
+msgid "Wearing this choker will double your speed."
+msgstr ""
+
+#. [unit]: type=Dwarvish Berserker, id=Elmagatsol
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2139
+msgid "Elmagatsol"
+msgstr ""
+
+#. [message]: speaker=Elmagatsol
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2256
+msgid "I'll chop you all to pieces.....MUHAHAHAHA!"
+msgstr ""
+
+#. [message]: id=Elmagatsol
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2267
+msgid "Nooooo...It's not possible that someone could defeat me."
+msgstr ""
+
+#. [object]: id=Amulet
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2298
+msgid "Berserker Amulet"
+msgstr ""
+
+#. [object]: id=Amulet
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2300
+msgid ""
+"Wearing this amulet when attacking can transform you into a wild berserker "
+"against whom no enemy has a chance to retaliate."
+msgstr ""
+
+#. [unit]: type=Elvish Sharpshooter, id=Tora
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2725
+msgid "Tora"
+msgstr ""
+
+#. [message]: speaker=Tora
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2783
+msgid "I will shoot you down!"
+msgstr ""
+
+#. [message]: id=Tora
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2794
+msgid "......"
+msgstr ""
+
+#. [object]: id=Bow
+#. [object]: id=BowII
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2852
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2875
+msgid "Elven Bow"
+msgstr ""
+
+#. [object]: id=Bow
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2854
+msgid "The elven bow greatly increases your ranged attack."
+msgstr ""
+
+#. [object]: id=BowII
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:2877
+msgid "The elven bow gives you a powerful ranged attack."
+msgstr ""
+
+#. [unit]: type=Merman Hoplite, id=Poseidon
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:3246
+msgid "Poseidon"
+msgstr ""
+
+#. [message]: speaker=Poseidon
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:3313
+msgid "You deserve a trident through the heart!"
+msgstr ""
+
+#. [message]: id=Poseidon
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:3324
+msgid "Glu glu..."
+msgstr ""
+
+#. [object]: id=Shield
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:3355
+msgid "Hoplite's Shield"
+msgstr ""
+
+#. [object]: id=Shield
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:3357
+msgid ""
+"The Hoplite's shield will increase your resistances to all kinds of weapons, "
+"effectivly reducing the damage you take by half."
+msgstr ""
+
+#. [unit]: type=Dwarvish Lord, id=Mithril
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:3745
+msgid "Mithril"
+msgstr ""
+
+#. [message]: speaker=Mithril
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:3813
+msgid "As Lord, I shall personally pass judgment. Guilty!"
+msgstr ""
+
+#. [message]: id=Mithril
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:3824
+msgid "Slain by an unworthy foe....ARGH!"
+msgstr ""
+
+#. [object]: id=Ring
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:3855
+msgid "Lord's Ring"
+msgstr ""
+
+#. [object]: id=Ring
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:3857
+msgid ""
+"The magical dwarven ring gives you tremendous power, causing your melee "
+"strikes to deal double damage. It also gives a powerful leadership ability."
+msgstr ""
+
+#. [unit]: type=Silver Mage, id=Ilon
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:4248
+msgid "Ilon"
+msgstr ""
+
+#. [message]: speaker=Ilon
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:4310
+msgid "Hehehe...Think you are ready for me!"
+msgstr ""
+
+#. [message]: id=Ilon
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:4321
+msgid "It was foolish of me to underestimate you."
+msgstr ""
+
+#. [object]: id=Silver
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:4352
+msgid "Silver Ring"
+msgstr ""
+
+#. [object]: id=Silver
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:4354
+msgid "The magical silver ring gives you powerful magical attacks."
+msgstr ""
+
+#. [unit]: type=Merman Triton, id=Neptune
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:4743
+msgid "Neptune"
+msgstr ""
+
+#. [message]: speaker=Neptune
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:4805
+msgid "You killed my brother, now I have come for vengence!"
+msgstr ""
+
+#. [message]: id=Neptune
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:4816
+msgid "How can this be? Aaargh!"
+msgstr ""
+
+#. [object]: id=TridentS
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:4847
+msgid "Triton's Trident"
+msgstr ""
+
+#. [object]: id=TridentS
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:4849
+msgid ""
+"The triton's trident increases your melee attack and enables you to shoot "
+"magical ice bolts at your enemies."
+msgstr ""
+
+#. [unit]: type=Drake Enforcer, id=Zogfotpik
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:5231
+msgid "Zogfotpik"
+msgstr ""
+
+#. [message]: speaker=Zogfotpik
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:5301
+msgid "Enough games, I've come to enforce your punishment!"
+msgstr ""
+
+#. [message]: id=Zogfotpik
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:5312
+msgid "So be it..."
+msgstr ""
+
+#. [object]: id=Equipment
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:5343
+msgid "Enforcer's Equipment"
+msgstr ""
+
+#. [object]: id=Equipment
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:5345
+msgid ""
+"The Enforcer's armor doubles your hitpoints while his weapon gives you a "
+"powerful and precise attack."
+msgstr ""
+
+#. [unit]: type=Great Mage, id=Argus
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:5721
+msgid "Argus"
+msgstr ""
+
+#. [message]: speaker=Argus
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:5813
+msgid "Who dares challenge me? Foolish mortals, I am a God!"
+msgstr ""
+
+#. [message]: id=Argus
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:5824
+msgid ""
+"Death whispers to me...but it can not have me. I will now ascend a higher "
+"plane of existence."
+msgstr ""
+
+#. [object]: id=Staff
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:5855
+msgid "Great Mage's Staff"
+msgstr ""
+
+#. [object]: id=Staff
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:5857
+msgid "The mage's staff gives you a magical attack and a magical defense."
+msgstr ""
+
+#. [unit]: type=Naga Myrmidon, id=High Templar
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6051
+msgid "High Templar"
+msgstr ""
+
+#. [unit]: type=Naga Myrmidon, id=Templar
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6125
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6186
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6269
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6335
+msgid "Templar"
+msgstr ""
+
+#. [message]: speaker=High Templar
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6447
+msgid ""
+"I am the High Templar of the temples of the nagas. You have destroyed our "
+"God's mortal body, but our God awaits resurection. We shall sacrafice your "
+"blood upon our alters. With the blood of the four Kings, our God shall "
+"return ten times more powerful than before."
+msgstr ""
+
+#. [message]: speaker=High Templar
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6467
+msgid ""
+"I can not believe that you've made it this far, thieves, but you will go no "
+"further. I have called upon our God to flood our sacred lands, and now we "
+"will stop you. Now you land dwellers have no chance against us."
+msgstr ""
+
+#. [message]: id=High Templar
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6478
+msgid ""
+"We have still won...for our souls shall now be collected by our God. The day "
+"of our rebirth shall cast terror into your mortal world. Hahahaha...."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6491
+msgid ""
+"There is a constant pulsing in your head...though you wrestle with the inner "
+"demon, you cannot resist it any longer. Your army has stopped fighting, all "
+"now on their knees in worship. You too feel the urge to worship...you find "
+"yourself on your knees as well giving your soul the Naga God as his faithful "
+"servant for all of time."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6501
+msgid ""
+"The blood dripping from your blade splatters upon your boots like crimson "
+"drops of victory. The remaining templars, elderly and unfit for battle, "
+"mutter curses to you...invoking the power of their god to cast a hex upon "
+"you. Your smile broadens as your bloody blade hacks them down savagely, "
+"heads rolling and random body parts still twitching as if they longed to be "
+"reattached to their bodies.\n"
+"Your voice is hoarse and dry, "
+msgstr ""
+
+#. [message]: speaker=unit
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6656
+msgid "The High Templars laughter swims thru your ears as you slowly die..."
+msgstr ""
+
+#. [message]: id=High Templar
+#: Temples_Of_The_Nagas/Temples_Of_The_Nagas.cfg:6660
+msgid ""
+"The blood of this kings shall be used to revive our god. It shall be ten "
+"times more poweful, we shall be unstoppable - and if you dont know who I "
+"am , try again and come to defeat me on hardcore difficulty!"
+msgstr ""
